@@ -1,1 +1,1 @@
-# Pneumonic Chest X-ray Classification using PyTorch and ResNet50.
+# Pneumonia Chest X-ray Classification using PyTorch and ResNet50.
