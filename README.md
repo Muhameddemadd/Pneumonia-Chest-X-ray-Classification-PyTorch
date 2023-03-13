@@ -1,1 +1,1 @@
-# Pneumonic-Chest-X-ray-Classification
+# Pneumonic Chest X-ray Classification 
